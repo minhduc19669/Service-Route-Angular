@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Route-Service"
+    }
+  },
+  "defaultProject": "Route-Service",
+  "cli": {
+    "analytics": false
+  }
 }
